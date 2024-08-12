@@ -1,0 +1,152 @@
+{
+  "projects": {
+    "demo4": {
+      "name": "Demo Project",
+      "defaultFeatureImage": "https://picsum.photos/1080/720",
+      "releases": {
+        "20240212_160000": {
+          "title": "Bug Fixes and Performance Improvements",
+          "version": "1.1.1",
+          "date": "2024-02-12",
+          "abstract": "This release addresses several important bug fixes and performance enhancements.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240212_160000.md"
+        },
+        "20240401_160000": {
+          "title": "Spring Feature Release",
+          "version": "1.2.0",
+          "date": "2024-04-01",
+          "featuredImage": "https://images.unsplash.com/photo-1610296669228-602fa827fc1f",
+          "abstract": "Spring into action with our latest features and improvements.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240401_160000.md"
+        },
+        "20240405_170000": {
+          "title": "Demo demo demo",
+          "version": "1.2.3",
+          "date": "2024-04-05",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Demo value asdasd",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240405_170000.md"
+        },
+        "20240805_134500": {
+          "title": "Release vMobileAndroidExtensions_v1.8.0 (Title)",
+          "version": "1.8.0",
+          "date": "2024-08-04",
+          "featuredImage": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/pictures/RN1-Web portal.png",
+          "abstract": "This is a version that contains the CGI fixes",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240805_134500.md"
+        }
+      }
+    },
+    "demo": {
+      "name": "Demo Project",
+      "releases": {
+        "20240212_160000": {
+          "title": "Bug Fixes and Performance Improvements",
+          "version": "1.1.1",
+          "date": "2024-02-12",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "This release addresses several important bug fixes and performance enhancements.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240212_160000.md"
+        },
+        "20240401_160000": {
+          "title": "Spring Feature Release",
+          "version": "1.2.0",
+          "date": "2024-04-01",
+          "featuredImage": "https://images.unsplash.com/photo-1610296669228-602fa827fc1f",
+          "abstract": "Spring into action with our latest features and improvements.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240401_160000.md"
+        },
+        "20240405_170000": {
+          "title": "Demo demo demo",
+          "version": "1.2.3",
+          "date": "2024-04-05",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Demo value asdasd",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240405_170000.md"
+        },
+        "20240805_134500": {
+          "title": "Release vMobileAndroidExtensions_v1.8.0 (Title)",
+          "version": "1.8.0",
+          "date": "2024-08-04",
+          "featuredImage": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/pictures/RN1-Web portal.png",
+          "abstract": "This is a version that contains the CGI fixes",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240805_134500.md"
+        }
+      }
+    },
+    "skystriker": {
+      "name": "LSA Mobile",
+      "releases": {
+        "20231220_160000": {
+          "title": "Skystriker Launch",
+          "version": "1.0.0",
+          "date": "2023-12-20",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Launching our revolutionary mobile platform, Skystriker.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20231220_160000.md"
+        },
+        "20240125_160000": {
+          "title": "New Integrations",
+          "version": "1.1.0",
+          "date": "2024-01-25",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "We're expanding our integration capabilities in this update.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240125_160000.md"
+        },
+        "20240220_160000": {
+          "title": "User Experience Overhaul",
+          "version": "1.2.0",
+          "date": "2024-02-20",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "This release introduces a major overhaul of our user interface and experience.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240220_160000.md"
+        },
+        "20240405_160000": {
+          "title": "April Security Update",
+          "version": "1.2.1",
+          "date": "2024-04-05",
+          "featuredImage": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/pictures/RN1-mobile technician.png",
+          "abstract": "Enhancing security measures and fixing vulnerabilities.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/skystriker/20240405_160000.md"
+        }
+      }
+    },
+    "trailblazer": {
+      "name": "Discover",
+      "releases": {
+        "20231225_160000": {
+          "title": "Discover Debut",
+          "version": "1.0.0",
+          "date": "2023-12-25",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Introducing Discover, our latest project for explorers.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20231225_160000.md"
+        },
+        "20240130_160000": {
+          "title": "Mapping Features Update",
+          "version": "1.1.0",
+          "date": "2024-01-30",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Expand your horizons with new mapping features.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240130_160000.md"
+        },
+        "20240225_160000": {
+          "title": "Performance Boost",
+          "version": "1.1.1",
+          "date": "2024-02-25",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "We've optimized our platform for speed and reliability.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240225_160000.md"
+        },
+        "20240410_160000": {
+          "title": "Spring Update",
+          "version": "1.2.0",
+          "date": "2024-04-10",
+          "featuredImage": "https://picsum.photos/1080/720",
+          "abstract": "Discover's spring update brings fresh features and improvements.",
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/trailblazer/20240410_160000.md"
+        }
+      }
+    }
+  }
+}
