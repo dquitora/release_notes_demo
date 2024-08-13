@@ -9,7 +9,7 @@
           "version": "1.1.1",
           "date": "2024-02-12",
           "abstract": "This release addresses several important bug fixes and performance enhancements.",
-          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240212_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240612_160000.md"
         },
         "20240601_160000": {
           "title": "Spring Feature Release",
@@ -17,7 +17,7 @@
           "date": "2024-04-01",
           "featuredImage": "https://images.unsplash.com/photo-1610296669228-602fa827fc1f",
           "abstract": "Spring into action with our latest features and improvements.",
-          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240401_160000.md"
+          "entry": "https://raw.githubusercontent.com/jwhite-upstart13/release_notes_demo/main/releases/demo/20240601_160000.md"
         },
         "20240705_170000": {
           "title": "Demo demo demo",
